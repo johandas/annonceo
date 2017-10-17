@@ -1,0 +1,5 @@
+.erreur{background: indianred; padding: 10px; margin: 5px; border-radius: 10px; text-align: center; width: 68.5%; color: white; float: right; margin-right: 5%;}
+.validation{ background: #669933 ; padding: 5px; margin: 5px; }
+.panel-body {
+    background : red;
+}
